@@ -448,3 +448,4 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 API/appsettings.json
 API/*.db
+API/wwwroot/*
